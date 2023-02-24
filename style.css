@@ -1,0 +1,44 @@
+.msg {
+    color: white;
+    padding: 10px;
+}
+
+.msg--valid {
+    background-color: green;
+}
+
+.msg--invalid {
+    background-color: red;
+}
+
+
+body{
+    background-color: black;
+}
+
+.odpocet {
+    color: rgb(55, 107, 241);
+    font-size: 40px;
+    padding-top: 190px;
+ 
+}
+
+.anonie {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    
+   
+}
+
+.malsi {
+    color: rgb(10, 156, 254);
+    font-size: 20px;
+    padding-top: -100px;
+}
+
+.odpocet,
+.anonie,
+.malsi {
+    text-align: center;
+}
+
